@@ -1,0 +1,3 @@
+Java follows some rules for naming things like class and boxes(Variables)
+While naming a class first letter of all the words should be uppercase for example DecimalNumbers
+While giving names to variables or boxes first letter of all the words should be upper case except the first word for example myBox
